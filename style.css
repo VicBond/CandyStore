@@ -45,7 +45,8 @@ color: #ea1c2e;
 }
 
 .navbar.scrolled {
-  background: rgb(255, 192, 200);
+  background: rgb(225, 180, 225);
+  transition: background 1s;
 }
 
 @media (max-width: 1200px) {
