@@ -44,6 +44,10 @@ color: #ea1c2e;
   font-size: 2.5rem;
 }
 
+.navbar.scrolled {
+  background: rgb(255, 192, 200);
+}
+
 @media (max-width: 1200px) {
   #headText h1 {
     font-weight: 100;
